@@ -1,5 +1,4 @@
 Parameters:
-	# Existing Bucket name
 	PipelineID:
 	Description: Existing Bucket name
 	Type: String
